@@ -1,0 +1,6 @@
+F:\NetCode\MicroService\MicroService\AhphOcelot\bin\Debug\netcoreapp2.1\AhphOcelot.deps.json
+F:\NetCode\MicroService\MicroService\AhphOcelot\bin\Debug\netcoreapp2.1\AhphOcelot.dll
+F:\NetCode\MicroService\MicroService\AhphOcelot\obj\Debug\netcoreapp2.1\AhphOcelot.csprojAssemblyReference.cache
+F:\NetCode\MicroService\MicroService\AhphOcelot\obj\Debug\netcoreapp2.1\AhphOcelot.csproj.CoreCompileInputs.cache
+F:\NetCode\MicroService\MicroService\AhphOcelot\obj\Debug\netcoreapp2.1\AhphOcelot.AssemblyInfoInputs.cache
+F:\NetCode\MicroService\MicroService\AhphOcelot\obj\Debug\netcoreapp2.1\AhphOcelot.AssemblyInfo.cs
