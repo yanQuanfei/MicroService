@@ -5,7 +5,11 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroService", "MicroService\MicroService.csproj", "{6E045A00-50B4-4E1B-BCC6-4E3073422118}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhphOcelot", "AhphOcelot\AhphOcelot.csproj", "{692606E8-7CF2-4801-93C7-25FA3F5F3334}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AhphOcelot", "AhphOcelot\AhphOcelot.csproj", "{692606E8-7CF2-4801-93C7-25FA3F5F3334}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "surgingTest", "surgingTest\surgingTest.csproj", "{A2B110CC-BE99-42D2-8B3E-5B32093B16EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBall", "FindBall\FindBall.csproj", "{76FCAF93-0D4A-4793-B721-00752EA364BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{692606E8-7CF2-4801-93C7-25FA3F5F3334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{692606E8-7CF2-4801-93C7-25FA3F5F3334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{692606E8-7CF2-4801-93C7-25FA3F5F3334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B110CC-BE99-42D2-8B3E-5B32093B16EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B110CC-BE99-42D2-8B3E-5B32093B16EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B110CC-BE99-42D2-8B3E-5B32093B16EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B110CC-BE99-42D2-8B3E-5B32093B16EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FCAF93-0D4A-4793-B721-00752EA364BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FCAF93-0D4A-4793-B721-00752EA364BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FCAF93-0D4A-4793-B721-00752EA364BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FCAF93-0D4A-4793-B721-00752EA364BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

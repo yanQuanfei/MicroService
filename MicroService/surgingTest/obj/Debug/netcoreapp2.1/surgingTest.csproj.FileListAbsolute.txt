@@ -1,0 +1,11 @@
+F:\NetCode\MicroService\MicroService\surgingTest\bin\Debug\netcoreapp2.1\surgingTest.deps.json
+F:\NetCode\MicroService\MicroService\surgingTest\bin\Debug\netcoreapp2.1\surgingTest.runtimeconfig.json
+F:\NetCode\MicroService\MicroService\surgingTest\bin\Debug\netcoreapp2.1\surgingTest.runtimeconfig.dev.json
+F:\NetCode\MicroService\MicroService\surgingTest\bin\Debug\netcoreapp2.1\surgingTest.dll
+F:\NetCode\MicroService\MicroService\surgingTest\obj\Debug\netcoreapp2.1\surgingTest.csprojAssemblyReference.cache
+F:\NetCode\MicroService\MicroService\surgingTest\obj\Debug\netcoreapp2.1\surgingTest.csproj.CoreCompileInputs.cache
+F:\NetCode\MicroService\MicroService\surgingTest\obj\Debug\netcoreapp2.1\surgingTest.RazorAssemblyInfo.cache
+F:\NetCode\MicroService\MicroService\surgingTest\obj\Debug\netcoreapp2.1\surgingTest.RazorAssemblyInfo.cs
+F:\NetCode\MicroService\MicroService\surgingTest\obj\Debug\netcoreapp2.1\surgingTest.AssemblyInfoInputs.cache
+F:\NetCode\MicroService\MicroService\surgingTest\obj\Debug\netcoreapp2.1\surgingTest.AssemblyInfo.cs
+F:\NetCode\MicroService\MicroService\surgingTest\obj\Debug\netcoreapp2.1\surgingTest.RazorTargetAssemblyInfo.cache
